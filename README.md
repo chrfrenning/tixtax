@@ -1,4 +1,5 @@
 # tixtax
+
 Just a utility to calculate some currency rates and gains.
 
 1. Export transactions from Fidelity into transactions.csv
@@ -11,3 +12,11 @@ Just a utility to calculate some currency rates and gains.
 Export data from this place in Fidelity, then copy the year's transactions into transactions.csv.
 
 ![Fidelity Export](fidelity_export.png)
+
+You can use the Export button and read the entire file, a cell lets you filter last years transactions
+
+## Remember
+
+* Remember Norwegian tax law requires first-in-first-out when reporting. 
+* And that I'm not a tax lawyer. 
+* And that this may have bugs.
