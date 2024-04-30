@@ -1,3 +1,8 @@
+# Don't submit tax data to git
+transactions.csv
+View closed lots.csv
+transactions_processed.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
